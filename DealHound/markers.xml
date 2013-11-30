@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+
+<markers>
+<marker>
+  <name>DEA Computing</name>
+<address>185 Main Ave Wynantskill NY</address>
+  <web>www.deacomputing.com</web>
+<lat>42.694628</lat>
+<lng>-73.635669</lng>
+</marker>
+
+<marker>
+  <name>Stuarts Conveniance store</name>
+<address> 127 Congress St, Troy, NY 12180</address>
+<web>www.deacomputing.com</web>
+<lat>42.728453</lat>
+<lng>-73.687990</lng>
+</marker>
+
+<marker>
+<name>Labellas Restaurant</name>
+<address> 174 Main Ave , Wynantskill, NY 12198</address>
+<web>www.deacomputing.com</web>
+<lat>42.694601</lat>
+<lng>-73.637571</lng>
+</marker>
+
+
+</markers>

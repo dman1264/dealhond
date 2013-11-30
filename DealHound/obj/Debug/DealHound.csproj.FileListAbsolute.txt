@@ -1,0 +1,5 @@
+c:\users\dman\documents\visual studio 2012\Projects\DealHound\DealHound\bin\DealHound.dll
+c:\users\dman\documents\visual studio 2012\Projects\DealHound\DealHound\bin\DealHound.pdb
+c:\users\dman\documents\visual studio 2012\Projects\DealHound\DealHound\obj\Debug\DealHound.csprojResolveAssemblyReference.cache
+c:\users\dman\documents\visual studio 2012\Projects\DealHound\DealHound\obj\Debug\DealHound.dll
+c:\users\dman\documents\visual studio 2012\Projects\DealHound\DealHound\obj\Debug\DealHound.pdb

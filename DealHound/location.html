@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <title>Location</title>
+  
+  
+  
+  <link rel="stylesheet" href="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.css">
+  
+  <!-- Extra Codiqa features -->
+  <link rel="stylesheet" href="codiqa.ext.css">
+  
+  <!-- jQuery and jQuery Mobile -->
+  <script src="https://d10ajoocuyu32n.cloudfront.net/jquery-1.9.1.min.js"></script>
+  <script src="https://d10ajoocuyu32n.cloudfront.net/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+
+  <!-- Extra Codiqa features -->
+  <script src="https://d10ajoocuyu32n.cloudfront.net/codiqa.ext.js"></script>
+ <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="lib/jquery-1.4.1.min.js"></script>
+<script type="text/javascript" src="lib/markers.js"></script>  
+</head>
+<body>
+<!-- Home -->
+<div data-role="page" id="page1">
+    <div data-role="content">
+        <div id="wallet" data-role="navbar" data-iconpos="top" class="button">
+            <ul>
+                <li>
+                    <a href="#page1" data-transition="fade" data-theme="" data-icon="">
+                        Preferences
+                    </a>
+                </li>
+                <li>
+                    <a href="#page1" data-transition="fade" data-theme="" data-icon="">
+                        Location
+                    </a>
+                </li>
+                <li>
+                    <a href="#page1" data-transition="fade" data-theme="" data-icon="">
+                        Wallet
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div id="map"></div>
+        <a id="sroute" data-role="button" href="#page1" class="button">
+            Start Route
+        </a>
+        <a data-role="button" href="#page1">
+            Stop Route
+        </a>
+    </div>
+</div>
+</body>
+</html>
